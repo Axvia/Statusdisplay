@@ -1,0 +1,15 @@
+name = "Simple Status Display"
+version = "1.1"
+description = "Showing Hunger and Health under your mouse!"
+author = "Kobayashi Yashiro"
+forumthread = ""
+api_version = 10
+priority = 0
+icon_atlas = "modicon.xml"
+icon = "modicon.tex"
+dont_starve_compatible = false
+reign_of_giants_compatible = false
+dst_compatible = true
+all_clients_require_mod = false
+client_only_mod = true
+server_filter_tags = {}
